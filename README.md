@@ -1,2 +1,2 @@
 # twitter-username-checker
-A mini tool that checks multiple username's availability on Twitter
+A mini vb.net desktop tool that checks multiple username's availability on Twitter
